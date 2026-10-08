@@ -1,0 +1,7 @@
+{
+  "name": "Polo Móveis | Gestão 360°",
+  "description": "Sistema Operacional Empresarial 360° para indústria e varejo de móveis para escritório e mobiliário corporativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
